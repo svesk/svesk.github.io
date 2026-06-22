@@ -1,0 +1,4 @@
+will need an api endpoints to upload ee log for discord bot
+or perhaps self hosted solution for this
+
+pretty please.
